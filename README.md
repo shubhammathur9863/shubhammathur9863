@@ -1,16 +1,140 @@
-## Hi there 👋
+# Hi, I'm Shubham Mathur 👋
 
-<!--
-**shubhammathur9863/shubhammathur9863** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Scientist | Python | SQL | Machine Learning | Deep Learning
 
-Here are some ideas to get you started:
+🔎 **Open to Data Science, Data Analyst & AI/ML opportunities**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an Aspiring Data Scientist with a background in Mathematics and a strong interest in Data Science, Machine Learning, Deep Learning, and data-driven problem solving.
+
+I work with Python and its Data Science ecosystem to clean, analyze, visualize, and model real-world datasets. I focus on understanding concepts practically and applying them through projects.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+- Python
+
+### Data Science & Analysis
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Data Visualization
+- Feature Engineering
+
+### Machine Learning
+- Scikit-learn
+- Regression
+- Classification
+- Clustering
+- Model Evaluation
+- Predictive Modeling
+
+### Deep Learning & AI
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
+- Long Short-Term Memory (LSTM)
+- PyTorch
+- Deep Learning fundamentals
+- Neural network architecture and training
+- Transformers
+- Understanding Transformer architecture and how it works
+- Attention Mechanism
+- Self-Attention
+- Positional Encoding
+- Encoder–Decoder Architecture
+
+### Database
+- SQL
+- MySQL
+
+### Tools
+- Jupyter Notebook
+- VS Code
+- Git
+- GitHub
+
+---
+
+## 📊 Featured Projects
+
+### 🫀 Heart Disease Prediction
+Machine Learning project for predicting the presence of heart disease using patient-related clinical features.
+
+**Tech:** Python, Pandas, Scikit-learn, Matplotlib
+
+---
+
+### 📰 Fake News Detection
+Machine Learning project focused on identifying potentially fake and reliable news articles from textual data.
+
+**Tech:** Python, Pandas, Scikit-learn
+
+---
+
+### 📞 Telco Customer Churn Prediction
+Predictive modeling project to identify customers who are likely to discontinue a telecommunications service.
+
+**Tech:** Python, Pandas, Scikit-learn, Neural Network
+
+---
+
+### 🎗️ Breast Cancer Classification
+Classification project using machine learning algorithms to distinguish between benign and malignant breast cancer cases.
+
+**Tech:** Python, Pandas, Scikit-learn
+
+---
+
+## 📚 Areas of Interest
+
+- Data Science
+- Data Analysis
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
+- Computer Vision
+- Natural Language Processing
+- Predictive Modeling
+- Business Analytics
+
+---
+
+## 🎓 Certification
+
+**AI/ML for Geodata Analytics**  
+Indian Institute of Remote Sensing (IIRS), ISRO
+
+---
+
+## 📈 Current Focus
+
+- Strengthening Machine Learning concepts
+- Building practical Data Science projects
+- Deep Learning with PyTorch
+- Understanding ANN, CNN, RNN and LSTM architectures
+- Understanding Transformers and Self-Attention
+- Improving SQL and analytical problem-solving skills
+- Exploring Artificial Intelligence and modern AI architectures
+
+---
+
+## 💻 Technologies & Tools
+
+`Python` `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn` `SQL` `MySQL` `PyTorch` `ANN` `CNN` `RNN` `LSTM` `Transformers` `Jupyter` `VS Code` `Git` `GitHub`
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** [shubhammathur9863](https://github.com/shubhammathur9863)
+- **LinkedIn:** [Shubham Mathur](https://www.linkedin.com/in/shubham-mathur03/)
+- **Email:** [shubhammathur887@gmail.com](mailto:shubhammathur887@gmail.com)
+
+---
+
+⭐ Thanks for visiting my profile!

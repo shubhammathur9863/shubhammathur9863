@@ -132,7 +132,7 @@ Indian Institute of Remote Sensing (IIRS), ISRO
 ## 📫 Connect With Me
 
 - **GitHub:** [shubhammathur9863](https://github.com/shubhammathur9863)
-- **LinkedIn:** [Shubham Mathur](https://www.linkedin.com/in/shubham-mathur03/)
+- **LinkedIn:** [https://www.linkedin.com/in/shubham-mathur03/](https://www.linkedin.com/in/shubham-mathur03/)
 - **Email:** [shubhammathur887@gmail.com](mailto:shubhammathur887@gmail.com)
 
 ---

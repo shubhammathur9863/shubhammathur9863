@@ -59,37 +59,6 @@ I work with Python and its Data Science ecosystem to clean, analyze, visualize, 
 - GitHub
 
 ---
-
-## 📊 Featured Projects
-
-### 🫀 Heart Disease Prediction
-Machine Learning project for predicting the presence of heart disease using patient-related clinical features.
-
-**Tech:** Python, Pandas, Scikit-learn, Matplotlib
-
----
-
-### 📰 Fake News Detection
-Machine Learning project focused on identifying potentially fake and reliable news articles from textual data.
-
-**Tech:** Python, Pandas, Scikit-learn
-
----
-
-### 📞 Telco Customer Churn Prediction
-Predictive modeling project to identify customers who are likely to discontinue a telecommunications service.
-
-**Tech:** Python, Pandas, Scikit-learn, Neural Network
-
----
-
-### 🎗️ Breast Cancer Classification
-Classification project using machine learning algorithms to distinguish between benign and malignant breast cancer cases.
-
-**Tech:** Python, Pandas, Scikit-learn
-
----
-
 ## 📚 Areas of Interest
 
 - Data Science
